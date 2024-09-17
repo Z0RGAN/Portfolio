@@ -2683,14 +2683,14 @@ input, select, textarea {
     }
 }
 
-@media screen and (min-width: 980px) and (max-width: 1655px) {
+/* @media screen and (min-width: 980px) and (max-width: 1655px) {
     #header {
         background-image: url("images/overlay.png"), url("../../images/6.jpg");
-        background-attachment: fixed; /* Keeps the background fixed */
+        background-attachment: fixed;
         background-position: center center;
-        background-size: contain; /* Ensures it covers the entire space */
+        background-size: contain; 
     }
-}
+} */
 
 #header > * {
     -moz-flex-shrink: 0;
@@ -3213,14 +3213,14 @@ input, select, textarea {
 						}
 					}
 
-					@media screen and (min-width: 980px) and (max-width: 1655px) {
+/* 					@media screen and (min-width: 980px) and (max-width: 1655px) {
 						#header {
 							background-image: url("images/overlay.png"), url("../../images/6.jpg");
-							background-attachment: fixed; /* Keeps the background fixed */
+							background-attachment: fixed; 
 							background-position: center center;
-							background-size: contain; /* Ensures it covers the entire space */
+							background-size: contain; 
 						}
-					}
+					} */
 					
 					#footer .icons {
 						margin: 0 0 1em 0;
