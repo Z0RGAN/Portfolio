@@ -3418,7 +3418,7 @@ h1, h2, h3, p, a, li {
 
 
 	body {
-		background: linear-gradient(to bottom, #000000, #540057); /* Black to Gray gradient */
+		background: linear-gradient(to bottom, #000000, #38003a); /* Black to Gray gradient */
 		font-family: 'CustomFont', sans-serif;
 		color: #b60000; /* Red text */
 	}
