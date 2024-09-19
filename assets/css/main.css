@@ -3456,24 +3456,23 @@ ul.icons li a:hover {
 } */
 
 
-/* Style for white font with black stroke in the 'Get In Touch' section */
 #three h2,
 #three p,
 #three h3,
 #three a {
     color: white; /* White text color */
-    -webkit-text-stroke: 1px black; /* Black stroke with 1px thickness */
+    -webkit-text-stroke: 2px rgb(97, 97, 97); /* Black stroke with 1px thickness */
     /* For browsers that don't support text-stroke, fallback to white text */
 }
 
 #three .labeled-icons li {
     color: white; /* White text */
-    -webkit-text-stroke: 1px black; /* Black stroke */
+    -webkit-text-stroke: 2px rgb(97, 97, 97); /* Black stroke */
 }
 
 #three .labeled-icons a {
     color: white; /* White color for links */
-    -webkit-text-stroke: 1px black; /* Black stroke */
+    -webkit-text-stroke: 2px rgb(97, 97, 97); /* Black stroke */
     text-decoration: none; /* Remove underline from links */
 }
 
